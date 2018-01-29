@@ -3304,7 +3304,7 @@ mark, .mark {
 
 .textbox {
     padding: 10px;
-    margin: 50px 0;
+    margin: 30px 0;
     background-color: white;
     text-align: center;
     transition: all ease .3s;
@@ -3349,8 +3349,8 @@ mark, .mark {
 @media (min-width: 768px) {
     .textbox-group {
         position: relative;
-        -webkit-transform: translateY(-35%);
-                transform: translateY(-35%);
+        /* -webkit-transform: translateY(-35%); */
+        /* transform: translateY(-35%); */
     }
 }
 
